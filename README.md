@@ -186,7 +186,7 @@
             } else {
                 flashlight.intensity = 4;
             }
-
+   //Привет
             if(dist < 0.8) {
                 alert("STALKER_DETECTION_CRITICAL: MISSION_FAILED");
                 location.reload();
